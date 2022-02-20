@@ -1,0 +1,14 @@
+{
+    "commands":[
+        {
+            "name":"woof",
+            "type":1,
+            "description": "Say woof!"
+        },
+        {
+            "name":"meow",
+            "type":1,
+            "description": "Say meow!"
+        }
+    ]
+}
